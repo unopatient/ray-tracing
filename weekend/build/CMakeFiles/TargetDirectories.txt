@@ -1,0 +1,3 @@
+/Users/asaphbay/cpp/ray-tracing/weekend/build/CMakeFiles/weekend_raytracer.dir
+/Users/asaphbay/cpp/ray-tracing/weekend/build/CMakeFiles/edit_cache.dir
+/Users/asaphbay/cpp/ray-tracing/weekend/build/CMakeFiles/rebuild_cache.dir
